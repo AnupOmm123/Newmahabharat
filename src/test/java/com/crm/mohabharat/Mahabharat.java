@@ -7,6 +7,7 @@ public class Mahabharat {
 		System.out.println("mahabharat32");
 System.out.println("no mahabharat");
 System.out.println("arjun");
+		System.out.println("bhim");
 	}
 
 }
